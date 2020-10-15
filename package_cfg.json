@@ -1,0 +1,30 @@
+{
+  "pkgusage": {
+    "raid-test": {
+      "loginurl": "https://raidid.diandian.info:7200/id_inter/id/v1/",
+      "sdkenv": "Sandbox",
+      "pkgtag": "rt"
+    },
+    "product": {
+      "loginurl": "https://raid-test-idinter-accelerator.centurygame.com/id_inter/id/v1/",
+      "useX86": false,
+      "pkgtag": "p"
+    },
+    "product-obb": {
+      "loginurl": "https://raid-test-idinter-accelerator.centurygame.com/id_inter/id/v1/",
+      "useX86": false,
+      "useobb": true,
+      "pkgtag": "po"
+    },
+    "product-x86": {
+      "loginurl": "https://raid-test-idinter-accelerator.centurygame.com/id_inter/id/v1/",
+      "pkgtag": "p86"
+    },
+    "product-uwa": {
+      "loginurl": "https://raid-test-idinter-accelerator.centurygame.com/id_inter/id/v1/",
+      "chtype": "InnerTest",
+      "useIL2CPP": false,
+      "pkgtag": "puwa"
+    }
+  }
+}
