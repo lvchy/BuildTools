@@ -15,7 +15,7 @@ namespace Build {
 
         #region uab build
         static string getUabcfgPath() {
-            return "Assets/Standard Assets/UAB/cfg.txt";
+            return "Assets/Standard Assets/UAB/Editor/cfg.txt";
         }
 
 
