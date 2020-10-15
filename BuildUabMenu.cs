@@ -37,6 +37,7 @@ namespace Build {
             l.Add("Assets/ResourcesAB/UI/Icon", new fcfg(".png,.asset", false));
             l.Add("Assets/ResourcesAB/UI/Textures", new fcfg(".png", false));
             l.Add("Assets/ResourcesAB/UI", new fcfg(".*", false));
+            l.Add("Assets/ResourcesAB/High/Avatar", new fcfg(".*", false));
             l.Add("Assets/ResourcesAB/UI/UIAtlas", new fcfg(".png", true));
             l.Add("Assets/Arts/heros", new fcfg(".*", true));
             l.Add("Assets/Arts/Scenes", new fcfg(".*", true));
